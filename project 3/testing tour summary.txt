@@ -1,0 +1,17 @@
+ 
+Filename			Length		Time(seconds)
+tsp_example_1.txt	125143		0.00
+tsp_example_2.txt	2955		0.08
+tsp_example_3.txt	1884207		296.65
+ 
+ 
+test-input-1.txt	6069		0.00
+test-input-2.txt	8776		0.01
+test-input-3.txt	14124		0.07
+test-input-4.txt	19469		0.21
+test-input-5.txt	27434		0.92
+test-input-6.txt	39117		4.00
+test-input-7.txt	61241		25.10		
+ 
+
+   
